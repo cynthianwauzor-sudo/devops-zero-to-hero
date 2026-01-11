@@ -1,4 +1,8 @@
 # My DevOps Journey 🚀
+![Status](https://img.shields.io/badge/Status-Active-success)
+![Progress](https://img.shields.io/badge/Week%201-Day%201-blue)
+![Focus](https://img.shields.io/badge/Focus-Linux%20%26%20Networking-yellow)
+
 
 **Author:** Cynthia
 **Role:** DevOps Intern
